@@ -1,0 +1,3021 @@
+Player 0 achieved a fitness of 594 in 310 moves
+Player 1 achieved a fitness of 594 in 266 moves
+Player 2 achieved a fitness of 595 in 307 moves
+Player 3 achieved a fitness of 312 in 129 moves
+Player 4 achieved a fitness of 304 in 153 moves
+Player 5 achieved a fitness of 596 in 331 moves
+Player 6 achieved a fitness of 307 in 137 moves
+Player 7 achieved a fitness of 434 in 245 moves
+Player 8 achieved a fitness of 312 in 143 moves
+Player 9 achieved a fitness of 595 in 275 moves
+Fitness increased succesfully, restore mutation chance to 0.01
+Mutating last 20.0% of moves, equal to 66.2 moves
+GENERATION 0 HIGHEST FITNESS ACHIEVED: 596
+Player 0 achieved a fitness of 596 in 331 moves
+Player 1 achieved a fitness of 596 in 331 moves
+Player 2 achieved a fitness of 596 in 331 moves
+Player 3 achieved a fitness of 596 in 331 moves
+Player 4 achieved a fitness of 596 in 331 moves
+Player 5 achieved a fitness of 596 in 331 moves
+Player 6 achieved a fitness of 596 in 331 moves
+Player 7 achieved a fitness of 596 in 331 moves
+Player 8 achieved a fitness of 596 in 331 moves
+Player 9 achieved a fitness of 596 in 331 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 1.5%
+Mutating last 20.0% of moves, equal to 66.2 moves
+GENERATION 1 HIGHEST FITNESS ACHIEVED: 596
+Player 0 achieved a fitness of 596 in 331 moves
+Player 1 achieved a fitness of 596 in 331 moves
+Player 2 achieved a fitness of 596 in 331 moves
+Player 3 achieved a fitness of 596 in 331 moves
+Player 4 achieved a fitness of 594 in 331 moves
+Player 5 achieved a fitness of 596 in 331 moves
+Player 6 achieved a fitness of 596 in 331 moves
+Player 7 achieved a fitness of 596 in 331 moves
+Player 8 achieved a fitness of 596 in 331 moves
+Player 9 achieved a fitness of 596 in 331 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 2.0%
+Mutating last 20.0% of moves, equal to 66.2 moves
+GENERATION 2 HIGHEST FITNESS ACHIEVED: 596
+Player 0 achieved a fitness of 596 in 331 moves
+Player 1 achieved a fitness of 596 in 331 moves
+Player 2 achieved a fitness of 596 in 331 moves
+Player 3 achieved a fitness of 596 in 331 moves
+Player 4 achieved a fitness of 596 in 331 moves
+Player 5 achieved a fitness of 595 in 331 moves
+Player 6 achieved a fitness of 596 in 331 moves
+Player 7 achieved a fitness of 596 in 331 moves
+Player 8 achieved a fitness of 596 in 331 moves
+Player 9 achieved a fitness of 596 in 331 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 2.5%
+Mutating last 20.0% of moves, equal to 66.2 moves
+GENERATION 3 HIGHEST FITNESS ACHIEVED: 596
+Player 0 achieved a fitness of 596 in 331 moves
+Player 1 achieved a fitness of 596 in 331 moves
+Player 2 achieved a fitness of 596 in 331 moves
+Player 3 achieved a fitness of 596 in 331 moves
+Player 4 achieved a fitness of 596 in 331 moves
+Player 5 achieved a fitness of 596 in 331 moves
+Player 6 achieved a fitness of 596 in 331 moves
+Player 7 achieved a fitness of 596 in 331 moves
+Player 8 achieved a fitness of 596 in 331 moves
+Player 9 achieved a fitness of 594 in 331 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 3.0000000000000004%
+Mutating last 20.0% of moves, equal to 66.2 moves
+GENERATION 4 HIGHEST FITNESS ACHIEVED: 596
+Player 0 achieved a fitness of 596 in 331 moves
+Player 1 achieved a fitness of 596 in 331 moves
+Player 2 achieved a fitness of 596 in 331 moves
+Player 3 achieved a fitness of 596 in 331 moves
+Player 4 achieved a fitness of 596 in 331 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 595 in 331 moves
+Player 7 achieved a fitness of 596 in 331 moves
+Player 8 achieved a fitness of 596 in 331 moves
+Player 9 achieved a fitness of 596 in 331 moves
+Fitness increased succesfully, restore mutation chance to 0.01
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 5 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 1.5%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 6 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 723 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 2.0%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 7 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 691 in 379 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 2.5%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 8 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 722 in 419 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 3.0000000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 9 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 722 in 406 moves
+Player 6 achieved a fitness of 699 in 369 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 3.5000000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 10 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 408 moves
+Player 5 achieved a fitness of 723 in 427 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 4.0%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 11 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 408 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 4.5%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 12 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 723 in 407 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 5.0%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 13 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 5.499999999999999%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 14 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 722 in 406 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 5.999999999999999%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 15 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 723 in 428 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 408 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 6.499999999999999%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 16 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 723 in 419 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 6.999999999999999%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 17 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 406 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 691 in 379 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 7.5%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 18 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 723 in 419 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 8.0%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 19 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 723 in 418 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 8.5%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 20 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 406 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 723 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 9.000000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 21 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 406 moves
+Player 2 achieved a fitness of 723 in 407 moves
+Player 3 achieved a fitness of 700 in 371 moves
+Player 4 achieved a fitness of 724 in 406 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 723 in 407 moves
+Player 9 achieved a fitness of 722 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 9.500000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 22 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 407 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 723 in 419 moves
+Player 9 achieved a fitness of 722 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 10.000000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 23 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 723 in 406 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 722 in 407 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 723 in 419 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 10.500000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 24 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 406 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 11.000000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 25 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 408 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 722 in 426 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 11.500000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 26 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 722 in 418 moves
+Player 5 achieved a fitness of 699 in 371 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 699 in 369 moves
+Player 9 achieved a fitness of 722 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 12.000000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 27 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 701 in 369 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 722 in 419 moves
+Player 7 achieved a fitness of 723 in 407 moves
+Player 8 achieved a fitness of 722 in 407 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 12.500000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 28 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 419 moves
+Player 2 achieved a fitness of 722 in 419 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 699 in 369 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 13.000000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 29 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 724 in 418 moves
+Player 5 achieved a fitness of 722 in 406 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 13.500000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 30 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 408 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 408 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 701 in 369 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 722 in 427 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 14.000000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 31 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 722 in 407 moves
+Player 4 achieved a fitness of 724 in 408 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 723 in 407 moves
+Player 9 achieved a fitness of 722 in 418 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 14.500000000000005%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 32 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 406 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 724 in 408 moves
+Player 5 achieved a fitness of 722 in 419 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 722 in 405 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 15.000000000000005%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 33 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 419 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 690 in 379 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 722 in 406 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 723 in 419 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 15.500000000000005%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 34 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 407 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 406 moves
+Player 6 achieved a fitness of 723 in 419 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 723 in 417 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 16.000000000000007%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 35 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 406 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 722 in 418 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 406 moves
+Player 7 achieved a fitness of 724 in 406 moves
+Player 8 achieved a fitness of 722 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 16.500000000000007%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 36 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 700 in 369 moves
+Player 4 achieved a fitness of 723 in 406 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 406 moves
+Player 7 achieved a fitness of 724 in 408 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 17.000000000000007%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 37 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 699 in 369 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 407 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 419 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 17.500000000000007%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 38 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 406 moves
+Player 2 achieved a fitness of 724 in 406 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 723 in 408 moves
+Player 5 achieved a fitness of 722 in 407 moves
+Player 6 achieved a fitness of 723 in 421 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 723 in 406 moves
+Player 9 achieved a fitness of 698 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 18.000000000000007%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 39 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 723 in 407 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 722 in 427 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 724 in 409 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 723 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 18.500000000000007%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 40 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 723 in 408 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 722 in 405 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 722 in 418 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 19.000000000000007%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 41 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 723 in 406 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 723 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 19.50000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 42 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 427 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 690 in 379 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 723 in 406 moves
+Player 8 achieved a fitness of 723 in 406 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 20.00000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 43 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 700 in 369 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 722 in 407 moves
+Player 4 achieved a fitness of 724 in 408 moves
+Player 5 achieved a fitness of 722 in 405 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 20.50000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 44 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 406 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 722 in 418 moves
+Player 5 achieved a fitness of 701 in 369 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 21.00000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 45 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 406 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 723 in 419 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 723 in 406 moves
+Player 6 achieved a fitness of 697 in 369 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 722 in 406 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 21.50000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 46 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 418 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 407 moves
+Player 7 achieved a fitness of 722 in 408 moves
+Player 8 achieved a fitness of 722 in 417 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 22.00000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 47 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 700 in 371 moves
+Player 2 achieved a fitness of 722 in 407 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 700 in 369 moves
+Player 8 achieved a fitness of 723 in 407 moves
+Player 9 achieved a fitness of 722 in 426 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 22.50000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 48 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 407 moves
+Player 2 achieved a fitness of 722 in 405 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 722 in 426 moves
+Player 8 achieved a fitness of 698 in 369 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 23.00000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 49 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 406 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 410 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 723 in 407 moves
+Player 8 achieved a fitness of 723 in 406 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 23.500000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 50 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 406 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 723 in 406 moves
+Player 5 achieved a fitness of 722 in 405 moves
+Player 6 achieved a fitness of 724 in 406 moves
+Player 7 achieved a fitness of 722 in 418 moves
+Player 8 achieved a fitness of 722 in 407 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 24.000000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 51 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 723 in 407 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 722 in 426 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 724 in 406 moves
+Player 8 achieved a fitness of 722 in 407 moves
+Player 9 achieved a fitness of 722 in 405 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 24.500000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 52 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 723 in 406 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 690 in 379 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 723 in 408 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 25.00000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 53 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 407 moves
+Player 2 achieved a fitness of 723 in 406 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 406 moves
+Player 8 achieved a fitness of 691 in 379 moves
+Player 9 achieved a fitness of 722 in 426 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 25.50000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 54 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 407 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 722 in 426 moves
+Player 4 achieved a fitness of 723 in 406 moves
+Player 5 achieved a fitness of 722 in 406 moves
+Player 6 achieved a fitness of 724 in 419 moves
+Player 7 achieved a fitness of 700 in 369 moves
+Player 8 achieved a fitness of 722 in 407 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 26.00000000000001%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 55 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 406 moves
+Player 2 achieved a fitness of 723 in 408 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 722 in 417 moves
+Player 8 achieved a fitness of 723 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 26.500000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 56 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 426 moves
+Player 2 achieved a fitness of 723 in 406 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 722 in 407 moves
+Player 5 achieved a fitness of 723 in 419 moves
+Player 6 achieved a fitness of 723 in 407 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 27.000000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 57 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 723 in 407 moves
+Player 3 achieved a fitness of 722 in 427 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 722 in 418 moves
+Player 7 achieved a fitness of 722 in 419 moves
+Player 8 achieved a fitness of 723 in 407 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 27.500000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 58 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 411 moves
+Player 2 achieved a fitness of 724 in 408 moves
+Player 3 achieved a fitness of 722 in 426 moves
+Player 4 achieved a fitness of 724 in 408 moves
+Player 5 achieved a fitness of 700 in 369 moves
+Player 6 achieved a fitness of 722 in 407 moves
+Player 7 achieved a fitness of 723 in 419 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 28.000000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 59 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 702 in 369 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 722 in 406 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 723 in 419 moves
+Player 8 achieved a fitness of 723 in 406 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 28.500000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 60 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 408 moves
+Player 4 achieved a fitness of 700 in 369 moves
+Player 5 achieved a fitness of 722 in 418 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 722 in 406 moves
+Player 9 achieved a fitness of 724 in 420 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 29.000000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 61 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 723 in 419 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 722 in 405 moves
+Player 5 achieved a fitness of 724 in 406 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 723 in 407 moves
+Player 8 achieved a fitness of 723 in 428 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 29.500000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 62 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 426 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 722 in 426 moves
+Player 5 achieved a fitness of 724 in 408 moves
+Player 6 achieved a fitness of 701 in 369 moves
+Player 7 achieved a fitness of 722 in 426 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 723 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 30.000000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 63 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 408 moves
+Player 2 achieved a fitness of 724 in 419 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 723 in 427 moves
+Player 6 achieved a fitness of 722 in 427 moves
+Player 7 achieved a fitness of 722 in 407 moves
+Player 8 achieved a fitness of 722 in 406 moves
+Player 9 achieved a fitness of 723 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 30.500000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 64 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 419 moves
+Player 2 achieved a fitness of 723 in 428 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 419 moves
+Player 7 achieved a fitness of 698 in 369 moves
+Player 8 achieved a fitness of 722 in 406 moves
+Player 9 achieved a fitness of 722 in 426 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 31.000000000000018%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 65 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 699 in 369 moves
+Player 2 achieved a fitness of 723 in 407 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 723 in 427 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 698 in 371 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 31.500000000000018%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 66 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 407 moves
+Player 2 achieved a fitness of 722 in 405 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 723 in 405 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 723 in 406 moves
+Player 7 achieved a fitness of 722 in 427 moves
+Player 8 achieved a fitness of 723 in 407 moves
+Player 9 achieved a fitness of 722 in 405 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 32.000000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 67 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 722 in 407 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 723 in 407 moves
+Player 5 achieved a fitness of 701 in 369 moves
+Player 6 achieved a fitness of 722 in 407 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 722 in 405 moves
+Player 9 achieved a fitness of 701 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 32.500000000000014%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 68 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 723 in 427 moves
+Player 6 achieved a fitness of 722 in 427 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 723 in 408 moves
+Player 9 achieved a fitness of 723 in 419 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 33.00000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 69 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 406 moves
+Player 2 achieved a fitness of 722 in 405 moves
+Player 3 achieved a fitness of 700 in 369 moves
+Player 4 achieved a fitness of 723 in 406 moves
+Player 5 achieved a fitness of 722 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 722 in 427 moves
+Player 8 achieved a fitness of 724 in 406 moves
+Player 9 achieved a fitness of 722 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 33.50000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 70 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 723 in 407 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 700 in 369 moves
+Player 5 achieved a fitness of 722 in 406 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 723 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 34.00000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 71 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 723 in 420 moves
+Player 3 achieved a fitness of 724 in 406 moves
+Player 4 achieved a fitness of 724 in 407 moves
+Player 5 achieved a fitness of 724 in 406 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 698 in 369 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 699 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 34.50000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 72 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 723 in 407 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 723 in 419 moves
+Player 5 achieved a fitness of 723 in 419 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 722 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 690 in 379 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 35.00000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 73 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 427 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 699 in 369 moves
+Player 5 achieved a fitness of 723 in 406 moves
+Player 6 achieved a fitness of 699 in 369 moves
+Player 7 achieved a fitness of 722 in 426 moves
+Player 8 achieved a fitness of 724 in 406 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 35.50000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 74 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 408 moves
+Player 2 achieved a fitness of 722 in 405 moves
+Player 3 achieved a fitness of 722 in 418 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 723 in 427 moves
+Player 6 achieved a fitness of 724 in 408 moves
+Player 7 achieved a fitness of 722 in 405 moves
+Player 8 achieved a fitness of 722 in 426 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 36.00000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 75 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 407 moves
+Player 2 achieved a fitness of 723 in 428 moves
+Player 3 achieved a fitness of 722 in 405 moves
+Player 4 achieved a fitness of 723 in 419 moves
+Player 5 achieved a fitness of 723 in 427 moves
+Player 6 achieved a fitness of 724 in 406 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 722 in 419 moves
+Player 9 achieved a fitness of 724 in 419 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 36.50000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 76 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 405 moves
+Player 2 achieved a fitness of 722 in 426 moves
+Player 3 achieved a fitness of 722 in 418 moves
+Player 4 achieved a fitness of 724 in 408 moves
+Player 5 achieved a fitness of 722 in 417 moves
+Player 6 achieved a fitness of 723 in 408 moves
+Player 7 achieved a fitness of 723 in 408 moves
+Player 8 achieved a fitness of 722 in 405 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 37.00000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 77 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 407 moves
+Player 2 achieved a fitness of 722 in 426 moves
+Player 3 achieved a fitness of 700 in 369 moves
+Player 4 achieved a fitness of 724 in 406 moves
+Player 5 achieved a fitness of 722 in 405 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 699 in 369 moves
+Player 9 achieved a fitness of 723 in 408 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 37.50000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 78 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 407 moves
+Player 2 achieved a fitness of 723 in 420 moves
+Player 3 achieved a fitness of 723 in 420 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 722 in 406 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 722 in 405 moves
+Player 9 achieved a fitness of 724 in 408 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 38.00000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 79 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 427 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 724 in 408 moves
+Player 4 achieved a fitness of 723 in 419 moves
+Player 5 achieved a fitness of 723 in 428 moves
+Player 6 achieved a fitness of 722 in 407 moves
+Player 7 achieved a fitness of 724 in 408 moves
+Player 8 achieved a fitness of 722 in 407 moves
+Player 9 achieved a fitness of 723 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 38.50000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 80 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 405 moves
+Player 2 achieved a fitness of 722 in 418 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 723 in 427 moves
+Player 6 achieved a fitness of 723 in 421 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 722 in 406 moves
+Player 9 achieved a fitness of 724 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 39.00000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 81 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 699 in 369 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 724 in 421 moves
+Player 5 achieved a fitness of 724 in 408 moves
+Player 6 achieved a fitness of 723 in 417 moves
+Player 7 achieved a fitness of 723 in 406 moves
+Player 8 achieved a fitness of 722 in 406 moves
+Player 9 achieved a fitness of 722 in 426 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 39.50000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 82 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 407 moves
+Player 2 achieved a fitness of 722 in 407 moves
+Player 3 achieved a fitness of 701 in 369 moves
+Player 4 achieved a fitness of 723 in 407 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 724 in 409 moves
+Player 8 achieved a fitness of 723 in 429 moves
+Player 9 achieved a fitness of 724 in 408 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 40.00000000000002%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 83 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 724 in 406 moves
+Player 3 achieved a fitness of 698 in 369 moves
+Player 4 achieved a fitness of 724 in 419 moves
+Player 5 achieved a fitness of 722 in 406 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 723 in 408 moves
+Player 8 achieved a fitness of 722 in 405 moves
+Player 9 achieved a fitness of 701 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 40.50000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 84 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 690 in 379 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 723 in 419 moves
+Player 5 achieved a fitness of 723 in 427 moves
+Player 6 achieved a fitness of 723 in 406 moves
+Player 7 achieved a fitness of 723 in 407 moves
+Player 8 achieved a fitness of 723 in 406 moves
+Player 9 achieved a fitness of 723 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 41.00000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 85 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 419 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 724 in 408 moves
+Player 4 achieved a fitness of 723 in 419 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 722 in 407 moves
+Player 8 achieved a fitness of 723 in 406 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 41.50000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 86 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 408 moves
+Player 2 achieved a fitness of 722 in 405 moves
+Player 3 achieved a fitness of 724 in 418 moves
+Player 4 achieved a fitness of 723 in 406 moves
+Player 5 achieved a fitness of 723 in 417 moves
+Player 6 achieved a fitness of 698 in 369 moves
+Player 7 achieved a fitness of 723 in 428 moves
+Player 8 achieved a fitness of 724 in 419 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 42.00000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 87 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 699 in 369 moves
+Player 2 achieved a fitness of 723 in 419 moves
+Player 3 achieved a fitness of 724 in 408 moves
+Player 4 achieved a fitness of 722 in 405 moves
+Player 5 achieved a fitness of 724 in 419 moves
+Player 6 achieved a fitness of 696 in 369 moves
+Player 7 achieved a fitness of 723 in 406 moves
+Player 8 achieved a fitness of 724 in 406 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 42.50000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 88 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 427 moves
+Player 2 achieved a fitness of 723 in 407 moves
+Player 3 achieved a fitness of 723 in 406 moves
+Player 4 achieved a fitness of 699 in 369 moves
+Player 5 achieved a fitness of 722 in 418 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 724 in 419 moves
+Player 8 achieved a fitness of 723 in 406 moves
+Player 9 achieved a fitness of 724 in 408 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 43.00000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 89 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 426 moves
+Player 2 achieved a fitness of 700 in 369 moves
+Player 3 achieved a fitness of 722 in 418 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 723 in 419 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 699 in 369 moves
+Player 8 achieved a fitness of 722 in 426 moves
+Player 9 achieved a fitness of 700 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 43.50000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 90 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 419 moves
+Player 2 achieved a fitness of 701 in 369 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 722 in 406 moves
+Player 6 achieved a fitness of 723 in 418 moves
+Player 7 achieved a fitness of 724 in 418 moves
+Player 8 achieved a fitness of 722 in 426 moves
+Player 9 achieved a fitness of 722 in 405 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 44.00000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 91 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 406 moves
+Player 2 achieved a fitness of 697 in 369 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 723 in 407 moves
+Player 8 achieved a fitness of 724 in 419 moves
+Player 9 achieved a fitness of 724 in 420 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 44.50000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 92 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 406 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 722 in 407 moves
+Player 4 achieved a fitness of 722 in 428 moves
+Player 5 achieved a fitness of 722 in 407 moves
+Player 6 achieved a fitness of 722 in 416 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 700 in 369 moves
+Player 9 achieved a fitness of 724 in 419 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 45.00000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 93 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 701 in 369 moves
+Player 2 achieved a fitness of 724 in 406 moves
+Player 3 achieved a fitness of 722 in 407 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 724 in 420 moves
+Player 6 achieved a fitness of 722 in 427 moves
+Player 7 achieved a fitness of 699 in 369 moves
+Player 8 achieved a fitness of 724 in 409 moves
+Player 9 achieved a fitness of 724 in 417 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 45.50000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 94 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 406 moves
+Player 2 achieved a fitness of 699 in 369 moves
+Player 3 achieved a fitness of 700 in 369 moves
+Player 4 achieved a fitness of 723 in 409 moves
+Player 5 achieved a fitness of 699 in 369 moves
+Player 6 achieved a fitness of 724 in 406 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 700 in 369 moves
+Player 9 achieved a fitness of 722 in 426 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 46.00000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 95 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 418 moves
+Player 2 achieved a fitness of 723 in 419 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 722 in 408 moves
+Player 5 achieved a fitness of 722 in 419 moves
+Player 6 achieved a fitness of 722 in 407 moves
+Player 7 achieved a fitness of 700 in 369 moves
+Player 8 achieved a fitness of 722 in 427 moves
+Player 9 achieved a fitness of 723 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 46.50000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 96 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 421 moves
+Player 2 achieved a fitness of 723 in 428 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 723 in 428 moves
+Player 5 achieved a fitness of 722 in 427 moves
+Player 6 achieved a fitness of 722 in 418 moves
+Player 7 achieved a fitness of 723 in 407 moves
+Player 8 achieved a fitness of 724 in 409 moves
+Player 9 achieved a fitness of 702 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 47.00000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 97 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 700 in 369 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 722 in 426 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 722 in 418 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 418 moves
+Player 8 achieved a fitness of 722 in 407 moves
+Player 9 achieved a fitness of 724 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 47.50000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 98 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 723 in 406 moves
+Player 3 achieved a fitness of 722 in 407 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 722 in 418 moves
+Player 7 achieved a fitness of 724 in 420 moves
+Player 8 achieved a fitness of 700 in 369 moves
+Player 9 achieved a fitness of 690 in 379 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 48.00000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 99 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 723 in 406 moves
+Player 3 achieved a fitness of 724 in 406 moves
+Player 4 achieved a fitness of 701 in 369 moves
+Player 5 achieved a fitness of 722 in 407 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 699 in 369 moves
+Player 8 achieved a fitness of 722 in 405 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 48.50000000000003%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 100 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 406 moves
+Player 2 achieved a fitness of 722 in 419 moves
+Player 3 achieved a fitness of 723 in 406 moves
+Player 4 achieved a fitness of 724 in 420 moves
+Player 5 achieved a fitness of 722 in 427 moves
+Player 6 achieved a fitness of 724 in 407 moves
+Player 7 achieved a fitness of 724 in 406 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 49.000000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 101 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 699 in 369 moves
+Player 4 achieved a fitness of 722 in 419 moves
+Player 5 achieved a fitness of 723 in 418 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 700 in 369 moves
+Player 8 achieved a fitness of 724 in 406 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 49.500000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 102 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 419 moves
+Player 2 achieved a fitness of 724 in 408 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 723 in 406 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 693 in 381 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 723 in 419 moves
+Player 9 achieved a fitness of 722 in 409 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 50.000000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 103 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 722 in 418 moves
+Player 3 achieved a fitness of 723 in 410 moves
+Player 4 achieved a fitness of 724 in 406 moves
+Player 5 achieved a fitness of 722 in 426 moves
+Player 6 achieved a fitness of 723 in 406 moves
+Player 7 achieved a fitness of 722 in 426 moves
+Player 8 achieved a fitness of 722 in 427 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 50.500000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 104 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 699 in 369 moves
+Player 2 achieved a fitness of 722 in 426 moves
+Player 3 achieved a fitness of 722 in 426 moves
+Player 4 achieved a fitness of 724 in 408 moves
+Player 5 achieved a fitness of 722 in 407 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 723 in 419 moves
+Player 8 achieved a fitness of 723 in 428 moves
+Player 9 achieved a fitness of 722 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 51.000000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 105 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 698 in 369 moves
+Player 2 achieved a fitness of 722 in 427 moves
+Player 3 achieved a fitness of 723 in 418 moves
+Player 4 achieved a fitness of 722 in 416 moves
+Player 5 achieved a fitness of 724 in 408 moves
+Player 6 achieved a fitness of 724 in 419 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 722 in 419 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 51.500000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 106 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 690 in 379 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 722 in 419 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 724 in 418 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 723 in 428 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 722 in 426 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 52.000000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 107 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 690 in 379 moves
+Player 3 achieved a fitness of 723 in 428 moves
+Player 4 achieved a fitness of 723 in 406 moves
+Player 5 achieved a fitness of 722 in 407 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 724 in 406 moves
+Player 8 achieved a fitness of 724 in 406 moves
+Player 9 achieved a fitness of 722 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 52.500000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 108 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 407 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 691 in 379 moves
+Player 4 achieved a fitness of 700 in 371 moves
+Player 5 achieved a fitness of 723 in 406 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 722 in 407 moves
+Player 8 achieved a fitness of 724 in 408 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 53.000000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 109 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 700 in 369 moves
+Player 2 achieved a fitness of 724 in 406 moves
+Player 3 achieved a fitness of 722 in 427 moves
+Player 4 achieved a fitness of 722 in 426 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 724 in 419 moves
+Player 9 achieved a fitness of 722 in 420 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 53.500000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 110 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 722 in 417 moves
+Player 3 achieved a fitness of 723 in 427 moves
+Player 4 achieved a fitness of 722 in 420 moves
+Player 5 achieved a fitness of 723 in 427 moves
+Player 6 achieved a fitness of 722 in 428 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 724 in 406 moves
+Player 9 achieved a fitness of 724 in 408 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 54.000000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 111 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 406 moves
+Player 2 achieved a fitness of 690 in 379 moves
+Player 3 achieved a fitness of 724 in 419 moves
+Player 4 achieved a fitness of 699 in 371 moves
+Player 5 achieved a fitness of 722 in 427 moves
+Player 6 achieved a fitness of 722 in 419 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 724 in 409 moves
+Player 9 achieved a fitness of 723 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 54.500000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 112 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 418 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 722 in 406 moves
+Player 4 achieved a fitness of 699 in 369 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 419 moves
+Player 7 achieved a fitness of 723 in 407 moves
+Player 8 achieved a fitness of 724 in 418 moves
+Player 9 achieved a fitness of 722 in 419 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 55.000000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 113 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 702 in 369 moves
+Player 2 achieved a fitness of 722 in 418 moves
+Player 3 achieved a fitness of 699 in 369 moves
+Player 4 achieved a fitness of 724 in 418 moves
+Player 5 achieved a fitness of 723 in 419 moves
+Player 6 achieved a fitness of 722 in 417 moves
+Player 7 achieved a fitness of 701 in 369 moves
+Player 8 achieved a fitness of 722 in 427 moves
+Player 9 achieved a fitness of 724 in 410 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 55.500000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 114 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 419 moves
+Player 2 achieved a fitness of 698 in 369 moves
+Player 3 achieved a fitness of 722 in 420 moves
+Player 4 achieved a fitness of 722 in 426 moves
+Player 5 achieved a fitness of 722 in 407 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 723 in 418 moves
+Player 8 achieved a fitness of 697 in 369 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 56.000000000000036%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 115 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 428 moves
+Player 2 achieved a fitness of 724 in 408 moves
+Player 3 achieved a fitness of 723 in 428 moves
+Player 4 achieved a fitness of 724 in 406 moves
+Player 5 achieved a fitness of 723 in 418 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 723 in 408 moves
+Player 8 achieved a fitness of 724 in 409 moves
+Player 9 achieved a fitness of 691 in 379 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 56.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 116 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 419 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 722 in 427 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 722 in 426 moves
+Player 6 achieved a fitness of 724 in 408 moves
+Player 7 achieved a fitness of 698 in 369 moves
+Player 8 achieved a fitness of 699 in 369 moves
+Player 9 achieved a fitness of 722 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 57.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 117 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 417 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 700 in 371 moves
+Player 4 achieved a fitness of 724 in 408 moves
+Player 5 achieved a fitness of 722 in 419 moves
+Player 6 achieved a fitness of 701 in 369 moves
+Player 7 achieved a fitness of 724 in 418 moves
+Player 8 achieved a fitness of 723 in 408 moves
+Player 9 achieved a fitness of 723 in 428 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 57.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 118 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 419 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 724 in 414 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 723 in 408 moves
+Player 6 achieved a fitness of 724 in 409 moves
+Player 7 achieved a fitness of 722 in 427 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 58.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 119 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 723 in 428 moves
+Player 4 achieved a fitness of 702 in 369 moves
+Player 5 achieved a fitness of 722 in 420 moves
+Player 6 achieved a fitness of 723 in 419 moves
+Player 7 achieved a fitness of 722 in 426 moves
+Player 8 achieved a fitness of 699 in 369 moves
+Player 9 achieved a fitness of 697 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 58.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 120 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 723 in 407 moves
+Player 3 achieved a fitness of 722 in 405 moves
+Player 4 achieved a fitness of 724 in 419 moves
+Player 5 achieved a fitness of 722 in 427 moves
+Player 6 achieved a fitness of 724 in 420 moves
+Player 7 achieved a fitness of 723 in 405 moves
+Player 8 achieved a fitness of 722 in 407 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 59.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 121 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 428 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 723 in 428 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 723 in 419 moves
+Player 6 achieved a fitness of 693 in 381 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 722 in 405 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 59.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 122 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 700 in 369 moves
+Player 3 achieved a fitness of 699 in 369 moves
+Player 4 achieved a fitness of 722 in 407 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 724 in 420 moves
+Player 9 achieved a fitness of 723 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 60.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 123 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 405 moves
+Player 2 achieved a fitness of 724 in 406 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 723 in 427 moves
+Player 5 achieved a fitness of 722 in 418 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 692 in 379 moves
+Player 8 achieved a fitness of 723 in 428 moves
+Player 9 achieved a fitness of 702 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 60.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 124 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 419 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 722 in 407 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 723 in 406 moves
+Player 6 achieved a fitness of 724 in 408 moves
+Player 7 achieved a fitness of 724 in 407 moves
+Player 8 achieved a fitness of 723 in 419 moves
+Player 9 achieved a fitness of 693 in 381 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 61.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 125 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 427 moves
+Player 2 achieved a fitness of 690 in 379 moves
+Player 3 achieved a fitness of 722 in 419 moves
+Player 4 achieved a fitness of 692 in 381 moves
+Player 5 achieved a fitness of 723 in 406 moves
+Player 6 achieved a fitness of 722 in 427 moves
+Player 7 achieved a fitness of 724 in 408 moves
+Player 8 achieved a fitness of 722 in 407 moves
+Player 9 achieved a fitness of 723 in 419 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 61.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 126 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 722 in 419 moves
+Player 3 achieved a fitness of 700 in 369 moves
+Player 4 achieved a fitness of 722 in 418 moves
+Player 5 achieved a fitness of 723 in 419 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 722 in 405 moves
+Player 8 achieved a fitness of 723 in 406 moves
+Player 9 achieved a fitness of 722 in 418 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 62.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 127 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 419 moves
+Player 2 achieved a fitness of 722 in 426 moves
+Player 3 achieved a fitness of 722 in 427 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 722 in 427 moves
+Player 6 achieved a fitness of 722 in 427 moves
+Player 7 achieved a fitness of 702 in 369 moves
+Player 8 achieved a fitness of 723 in 428 moves
+Player 9 achieved a fitness of 701 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 62.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 128 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 427 moves
+Player 2 achieved a fitness of 723 in 405 moves
+Player 3 achieved a fitness of 723 in 407 moves
+Player 4 achieved a fitness of 722 in 418 moves
+Player 5 achieved a fitness of 722 in 427 moves
+Player 6 achieved a fitness of 722 in 419 moves
+Player 7 achieved a fitness of 722 in 427 moves
+Player 8 achieved a fitness of 724 in 408 moves
+Player 9 achieved a fitness of 722 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 63.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 129 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 691 in 381 moves
+Player 2 achieved a fitness of 723 in 427 moves
+Player 3 achieved a fitness of 724 in 407 moves
+Player 4 achieved a fitness of 701 in 369 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 419 moves
+Player 7 achieved a fitness of 724 in 406 moves
+Player 8 achieved a fitness of 723 in 418 moves
+Player 9 achieved a fitness of 722 in 426 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 63.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 130 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 407 moves
+Player 2 achieved a fitness of 701 in 369 moves
+Player 3 achieved a fitness of 700 in 369 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 722 in 405 moves
+Player 6 achieved a fitness of 723 in 407 moves
+Player 7 achieved a fitness of 722 in 418 moves
+Player 8 achieved a fitness of 691 in 379 moves
+Player 9 achieved a fitness of 724 in 406 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 64.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 131 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 419 moves
+Player 2 achieved a fitness of 723 in 405 moves
+Player 3 achieved a fitness of 722 in 408 moves
+Player 4 achieved a fitness of 690 in 379 moves
+Player 5 achieved a fitness of 722 in 428 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 722 in 407 moves
+Player 8 achieved a fitness of 722 in 428 moves
+Player 9 achieved a fitness of 722 in 426 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 64.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 132 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 407 moves
+Player 2 achieved a fitness of 722 in 426 moves
+Player 3 achieved a fitness of 722 in 418 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 723 in 420 moves
+Player 6 achieved a fitness of 723 in 406 moves
+Player 7 achieved a fitness of 722 in 406 moves
+Player 8 achieved a fitness of 722 in 406 moves
+Player 9 achieved a fitness of 723 in 429 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 65.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 133 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 407 moves
+Player 2 achieved a fitness of 723 in 428 moves
+Player 3 achieved a fitness of 722 in 426 moves
+Player 4 achieved a fitness of 724 in 419 moves
+Player 5 achieved a fitness of 700 in 369 moves
+Player 6 achieved a fitness of 722 in 427 moves
+Player 7 achieved a fitness of 701 in 369 moves
+Player 8 achieved a fitness of 723 in 407 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 65.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 134 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 407 moves
+Player 2 achieved a fitness of 722 in 427 moves
+Player 3 achieved a fitness of 722 in 427 moves
+Player 4 achieved a fitness of 724 in 408 moves
+Player 5 achieved a fitness of 722 in 427 moves
+Player 6 achieved a fitness of 722 in 407 moves
+Player 7 achieved a fitness of 700 in 369 moves
+Player 8 achieved a fitness of 722 in 406 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 66.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 135 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 407 moves
+Player 2 achieved a fitness of 723 in 428 moves
+Player 3 achieved a fitness of 723 in 417 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 723 in 427 moves
+Player 6 achieved a fitness of 724 in 406 moves
+Player 7 achieved a fitness of 724 in 419 moves
+Player 8 achieved a fitness of 722 in 427 moves
+Player 9 achieved a fitness of 723 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 66.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 136 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 692 in 379 moves
+Player 2 achieved a fitness of 724 in 407 moves
+Player 3 achieved a fitness of 722 in 418 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 724 in 407 moves
+Player 6 achieved a fitness of 723 in 406 moves
+Player 7 achieved a fitness of 723 in 427 moves
+Player 8 achieved a fitness of 723 in 420 moves
+Player 9 achieved a fitness of 693 in 379 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 67.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 137 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 691 in 379 moves
+Player 2 achieved a fitness of 722 in 406 moves
+Player 3 achieved a fitness of 699 in 369 moves
+Player 4 achieved a fitness of 722 in 406 moves
+Player 5 achieved a fitness of 722 in 406 moves
+Player 6 achieved a fitness of 722 in 418 moves
+Player 7 achieved a fitness of 699 in 369 moves
+Player 8 achieved a fitness of 724 in 419 moves
+Player 9 achieved a fitness of 724 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 67.50000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 138 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 724 in 410 moves
+Player 2 achieved a fitness of 723 in 419 moves
+Player 3 achieved a fitness of 723 in 405 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 724 in 406 moves
+Player 6 achieved a fitness of 723 in 420 moves
+Player 7 achieved a fitness of 722 in 427 moves
+Player 8 achieved a fitness of 722 in 418 moves
+Player 9 achieved a fitness of 699 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 68.00000000000004%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 139 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 722 in 405 moves
+Player 3 achieved a fitness of 722 in 427 moves
+Player 4 achieved a fitness of 723 in 419 moves
+Player 5 achieved a fitness of 724 in 419 moves
+Player 6 achieved a fitness of 722 in 426 moves
+Player 7 achieved a fitness of 701 in 369 moves
+Player 8 achieved a fitness of 701 in 369 moves
+Player 9 achieved a fitness of 722 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 68.50000000000006%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 140 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 722 in 407 moves
+Player 3 achieved a fitness of 723 in 420 moves
+Player 4 achieved a fitness of 723 in 428 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 722 in 406 moves
+Player 7 achieved a fitness of 723 in 421 moves
+Player 8 achieved a fitness of 722 in 407 moves
+Player 9 achieved a fitness of 722 in 426 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 69.00000000000006%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 141 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 691 in 379 moves
+Player 2 achieved a fitness of 724 in 406 moves
+Player 3 achieved a fitness of 723 in 406 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 722 in 427 moves
+Player 6 achieved a fitness of 723 in 420 moves
+Player 7 achieved a fitness of 723 in 407 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 700 in 369 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 69.50000000000006%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 142 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 406 moves
+Player 2 achieved a fitness of 693 in 379 moves
+Player 3 achieved a fitness of 723 in 420 moves
+Player 4 achieved a fitness of 701 in 369 moves
+Player 5 achieved a fitness of 723 in 407 moves
+Player 6 achieved a fitness of 724 in 406 moves
+Player 7 achieved a fitness of 723 in 407 moves
+Player 8 achieved a fitness of 724 in 407 moves
+Player 9 achieved a fitness of 722 in 427 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 70.00000000000006%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 143 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 723 in 427 moves
+Player 2 achieved a fitness of 724 in 419 moves
+Player 3 achieved a fitness of 724 in 419 moves
+Player 4 achieved a fitness of 723 in 418 moves
+Player 5 achieved a fitness of 723 in 420 moves
+Player 6 achieved a fitness of 724 in 410 moves
+Player 7 achieved a fitness of 693 in 379 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 70.50000000000006%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 144 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 426 moves
+Player 2 achieved a fitness of 724 in 420 moves
+Player 3 achieved a fitness of 724 in 406 moves
+Player 4 achieved a fitness of 722 in 427 moves
+Player 5 achieved a fitness of 722 in 427 moves
+Player 6 achieved a fitness of 723 in 408 moves
+Player 7 achieved a fitness of 723 in 428 moves
+Player 8 achieved a fitness of 723 in 427 moves
+Player 9 achieved a fitness of 723 in 407 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 71.00000000000006%
+Mutating last 20.0% of moves, equal to 81.4 moves
+GENERATION 145 HIGHEST FITNESS ACHIEVED: 724
+Player 0 achieved a fitness of 724 in 407 moves
+Player 1 achieved a fitness of 722 in 405 moves
+Player 2 achieved a fitness of 723 in 419 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 723 in 406 moves
+Player 5 achieved a fitness of 722 in 420 moves
+Player 6 achieved a fitness of 723 in 427 moves
+Player 7 achieved a fitness of 722 in 426 moves
+Player 8 achieved a fitness of 691 in 379 moves
+Player 9 achieved a fitness of 723 in 405 moves
+Fitness increased succesfully, restore mutation chance to 0.01
+Mutating last 20.0% of moves, equal to 108.0 moves
+GENERATION 146 HIGHEST FITNESS ACHIEVED: 899
+Player 0 achieved a fitness of 899 in 540 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 1.5%
+Mutating last 20.0% of moves, equal to 108.0 moves
+GENERATION 147 HIGHEST FITNESS ACHIEVED: 899
+Player 0 achieved a fitness of 899 in 540 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 2.0%
+Mutating last 20.0% of moves, equal to 108.0 moves
+GENERATION 148 HIGHEST FITNESS ACHIEVED: 899
+Player 0 achieved a fitness of 899 in 540 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 2.5%
+Mutating last 20.0% of moves, equal to 108.0 moves
+GENERATION 149 HIGHEST FITNESS ACHIEVED: 899
+Player 0 achieved a fitness of 899 in 540 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 3.0000000000000004%
+Mutating last 20.0% of moves, equal to 108.0 moves
+GENERATION 150 HIGHEST FITNESS ACHIEVED: 899
+Player 0 achieved a fitness of 899 in 540 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 3.5000000000000004%
+Mutating last 20.0% of moves, equal to 108.0 moves
+GENERATION 151 HIGHEST FITNESS ACHIEVED: 899
+Player 0 achieved a fitness of 899 in 540 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 4.0%
+Mutating last 20.0% of moves, equal to 108.0 moves
+GENERATION 152 HIGHEST FITNESS ACHIEVED: 899
+Player 0 achieved a fitness of 899 in 540 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Fitness increased succesfully, restore mutation chance to 0.01
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 153 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 1.5%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 154 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 2.0%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 155 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 898 in 526 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 2.5%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 156 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 898 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 3.0000000000000004%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 157 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 3.5000000000000004%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 158 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 4.0%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 159 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 4.5%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 160 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 898 in 526 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 5.0%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 161 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 526 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 5.499999999999999%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 162 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 5.999999999999999%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 163 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 899 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 6.499999999999999%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 164 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 898 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 6.999999999999999%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 165 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 898 in 526 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 7.5%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 166 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 898 in 534 moves
+Player 3 achieved a fitness of 899 in 534 moves
+Player 4 achieved a fitness of 898 in 533 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 899 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 8.0%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 167 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 898 in 526 moves
+Player 4 achieved a fitness of 898 in 533 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 8.5%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 168 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 526 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 9.000000000000002%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 169 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 898 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 9.500000000000002%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 170 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 898 in 533 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 898 in 533 moves
+Player 8 achieved a fitness of 899 in 536 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 10.000000000000002%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 171 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 899 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 10.500000000000002%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 172 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 898 in 533 moves
+Player 5 achieved a fitness of 898 in 526 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 899 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 11.000000000000004%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 173 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 898 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 899 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 11.500000000000004%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 174 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 898 in 533 moves
+Player 3 achieved a fitness of 899 in 534 moves
+Player 4 achieved a fitness of 898 in 533 moves
+Player 5 achieved a fitness of 898 in 533 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 898 in 533 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 12.000000000000004%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 175 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 898 in 526 moves
+Player 6 achieved a fitness of 899 in 534 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 898 in 533 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 12.500000000000004%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 176 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 899 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 13.000000000000004%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 177 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 534 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 898 in 533 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 13.500000000000004%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 178 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 898 in 533 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 14.000000000000004%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 179 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 898 in 533 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 14.500000000000005%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 180 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 898 in 539 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 898 in 535 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 15.000000000000005%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 181 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 898 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 15.500000000000005%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 182 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 526 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 898 in 526 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 899 in 534 moves
+Player 9 achieved a fitness of 898 in 526 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 16.000000000000007%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 183 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 899 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 535 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 898 in 533 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 899 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 16.500000000000007%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 184 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 534 moves
+Player 2 achieved a fitness of 900 in 526 moves
+Player 3 achieved a fitness of 899 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 899 in 534 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 17.000000000000007%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 185 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 898 in 533 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 898 in 528 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 17.500000000000007%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 186 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 533 moves
+Player 2 achieved a fitness of 899 in 534 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 899 in 534 moves
+Player 6 achieved a fitness of 899 in 527 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 898 in 526 moves
+Player 9 achieved a fitness of 898 in 533 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 18.000000000000007%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 187 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 526 moves
+Player 2 achieved a fitness of 898 in 526 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 526 moves
+Player 8 achieved a fitness of 898 in 533 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 18.500000000000007%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 188 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 899 in 534 moves
+Player 9 achieved a fitness of 899 in 533 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 19.000000000000007%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 189 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 899 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 19.50000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 190 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 898 in 533 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 526 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 898 in 535 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 20.00000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 191 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 899 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 20.50000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 192 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 21.00000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 193 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 898 in 533 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 900 in 526 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 898 in 533 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 21.50000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 194 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 526 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 898 in 533 moves
+Player 6 achieved a fitness of 899 in 534 moves
+Player 7 achieved a fitness of 898 in 533 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 22.00000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 195 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 526 moves
+Player 2 achieved a fitness of 899 in 535 moves
+Player 3 achieved a fitness of 898 in 533 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 898 in 533 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 900 in 535 moves
+Player 8 achieved a fitness of 899 in 534 moves
+Player 9 achieved a fitness of 898 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 22.50000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 196 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 899 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 898 in 526 moves
+Player 5 achieved a fitness of 898 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 898 in 540 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 23.00000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 197 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 899 in 526 moves
+Player 6 achieved a fitness of 898 in 525 moves
+Player 7 achieved a fitness of 900 in 536 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 23.500000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 198 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 526 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 899 in 536 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 525 moves
+Player 9 achieved a fitness of 898 in 525 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 24.000000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 199 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 533 moves
+Player 9 achieved a fitness of 899 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 24.500000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 200 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 899 in 534 moves
+Player 3 achieved a fitness of 900 in 536 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 900 in 526 moves
+Player 6 achieved a fitness of 899 in 534 moves
+Player 7 achieved a fitness of 898 in 525 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 900 in 535 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 25.00000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 201 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 899 in 534 moves
+Player 5 achieved a fitness of 898 in 525 moves
+Player 6 achieved a fitness of 899 in 526 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 898 in 533 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 25.50000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 202 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 898 in 533 moves
+Player 4 achieved a fitness of 898 in 526 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 899 in 534 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 26.00000000000001%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 203 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 526 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 898 in 533 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 899 in 526 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 898 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 898 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 26.500000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 204 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 899 in 540 moves
+Player 3 achieved a fitness of 899 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 898 in 533 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 898 in 535 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 27.000000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 205 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 526 moves
+Player 2 achieved a fitness of 898 in 525 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 898 in 529 moves
+Player 7 achieved a fitness of 898 in 526 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 900 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 27.500000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 206 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 535 moves
+Player 2 achieved a fitness of 898 in 534 moves
+Player 3 achieved a fitness of 900 in 534 moves
+Player 4 achieved a fitness of 898 in 526 moves
+Player 5 achieved a fitness of 899 in 534 moves
+Player 6 achieved a fitness of 899 in 540 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 899 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 28.000000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 207 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 535 moves
+Player 3 achieved a fitness of 898 in 533 moves
+Player 4 achieved a fitness of 900 in 526 moves
+Player 5 achieved a fitness of 900 in 534 moves
+Player 6 achieved a fitness of 899 in 534 moves
+Player 7 achieved a fitness of 899 in 540 moves
+Player 8 achieved a fitness of 899 in 530 moves
+Player 9 achieved a fitness of 899 in 540 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 28.500000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 208 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 898 in 533 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 898 in 533 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 899 in 536 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 900 in 534 moves
+Player 9 achieved a fitness of 899 in 534 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 29.000000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 209 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 898 in 534 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 899 in 534 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 898 in 526 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 898 in 533 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 29.500000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 210 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 534 moves
+Player 2 achieved a fitness of 900 in 535 moves
+Player 3 achieved a fitness of 900 in 535 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 898 in 533 moves
+Player 6 achieved a fitness of 900 in 534 moves
+Player 7 achieved a fitness of 900 in 534 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 898 in 525 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 30.000000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 211 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 898 in 533 moves
+Player 3 achieved a fitness of 899 in 540 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 899 in 525 moves
+Player 6 achieved a fitness of 898 in 533 moves
+Player 7 achieved a fitness of 898 in 526 moves
+Player 8 achieved a fitness of 898 in 533 moves
+Player 9 achieved a fitness of 898 in 533 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 30.500000000000014%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 212 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 900 in 534 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 899 in 534 moves
+Player 4 achieved a fitness of 899 in 540 moves
+Player 5 achieved a fitness of 898 in 535 moves
+Player 6 achieved a fitness of 899 in 534 moves
+Player 7 achieved a fitness of 898 in 534 moves
+Player 8 achieved a fitness of 900 in 535 moves
+Player 9 achieved a fitness of 898 in 533 moves
+Increasing mutation chance by 0.005
+Mutation chance is now 31.000000000000018%
+Mutating last 20.0% of moves, equal to 106.80000000000001 moves
+GENERATION 213 HIGHEST FITNESS ACHIEVED: 900
+Player 0 achieved a fitness of 900 in 534 moves
+Player 1 achieved a fitness of 899 in 540 moves
+Player 2 achieved a fitness of 900 in 534 moves
+Player 3 achieved a fitness of 898 in 527 moves
+Player 4 achieved a fitness of 900 in 534 moves
+Player 5 achieved a fitness of 899 in 540 moves
+Player 6 achieved a fitness of 1419 in 746 moves
+Player 7 achieved a fitness of 898 in 540 moves
+Player 8 achieved a fitness of 899 in 540 moves
+Player 9 achieved a fitness of 900 in 535 moves
+Fitness increased succesfully, restore mutation chance to 0.01
+Mutating last 20.0% of moves, equal to 149.20000000000002 moves
+GENERATION 214 HIGHEST FITNESS ACHIEVED: 1419
+Player 0 achieved a fitness of 1419 in 746 moves
+Player 1 achieved a fitness of 1419 in 746 moves
+Player 2 achieved a fitness of 1419 in 746 moves
+Player 3 achieved a fitness of 1419 in 746 moves
+Player 4 achieved a fitness of 1419 in 746 moves
+Player 5 achieved a fitness of 1419 in 746 moves
+Player 6 achieved a fitness of 2595 in 1335 moves
+Player 7 achieved a fitness of 1419 in 746 moves
+Player 8 achieved a fitness of 1419 in 746 moves
+Player 9 achieved a fitness of 1419 in 746 moves
+Fitness increased succesfully, restore mutation chance to 0.01
+Mutating last 20.0% of moves, equal to 267.0 moves
+GENERATION 215 HIGHEST FITNESS ACHIEVED: 2595
+Player 0 achieved a fitness of 2595 in 1335 moves
+Player 1 achieved a fitness of 2595 in 1335 moves
+Player 2 achieved a fitness of 3157 in 1690 moves

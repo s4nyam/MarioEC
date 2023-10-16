@@ -53,7 +53,7 @@ def eval_genome(genome, config, genome_id=None):
 
         # if mario gets to the flag give a very high reward meet fitness_threshold
         if info["flag_get"]:
-            fitness_current += 1000
+            fitness_current += 500000
 
         # extra penalty for dying
         if info["life"] < lives_remaining:

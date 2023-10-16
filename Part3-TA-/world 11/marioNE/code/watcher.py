@@ -9,10 +9,9 @@ from gym_super_mario_bros.actions import SIMPLE_MOVEMENT
 from nes_py.wrappers import JoypadSpace
 
 viewer = rendering.SimpleImageViewer()
-env = gym_super_mario_bros.make("SuperMarioBros-v0")
+env = gym_super_mario_bros.make("SuperMarioBros-1-1-v0")
 env = JoypadSpace(env, SIMPLE_MOVEMENT)
 
-genome_ids_to_watch = [79529]
 
 
 def nnout_to_action(nnout):
@@ -89,7 +88,7 @@ config = neat.Config(
     "config-feedforward",
 )
 
-p = neat.Checkpointer.restore_checkpoint("neat-checkpoint-1157")
+p = neat.Checkpointer.restore_checkpoint("neat-checkpoint-14")
 
 p.add_reporter(neat.StdOutReporter(True))
 stats = neat.StatisticsReporter()

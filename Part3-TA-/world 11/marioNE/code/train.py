@@ -1,14 +1,15 @@
-#!/usr/bin/env python
 
 import pickle
-
+import csv
 import cv2
 import gym_super_mario_bros
 import neat
 import numpy as np
+import pandas as pd
+import time
 from gym_super_mario_bros.actions import SIMPLE_MOVEMENT
 from nes_py.wrappers import JoypadSpace
-
+fitness_values = []
 
 def nnout_to_action(nnout):
     return nnout.index(max(nnout))
@@ -20,7 +21,7 @@ def eval_genomes(genomes, config):
 
 
 def eval_genome(genome, config, genome_id=None):
-    env = gym_super_mario_bros.make("SuperMarioBros-v0")
+    env = gym_super_mario_bros.make("SuperMarioBros-1-1-v0")
     env = JoypadSpace(env, SIMPLE_MOVEMENT)
     state = env.reset()
 
@@ -52,7 +53,7 @@ def eval_genome(genome, config, genome_id=None):
 
         # if mario gets to the flag give a very high reward meet fitness_threshold
         if info["flag_get"]:
-            fitness_current += 500000
+            fitness_current += 1000
 
         # extra penalty for dying
         if info["life"] < lives_remaining:
@@ -82,6 +83,7 @@ def eval_genome(genome, config, genome_id=None):
         print(f"Fitness: {fitness_current}")
 
     env.close()
+    fitness_values.append(fitness_current)
     return fitness_current
 
 
@@ -107,6 +109,7 @@ pe = neat.ParallelEvaluator(10, eval_genome)
 winner = p.run(pe.evaluate)
 
 # winner = p.run(eval_genomes)
+
 
 with open("winner.pkl", "wb") as output:
     pickle.dump(winner, output, 1)

@@ -81,9 +81,9 @@ def eval_genome(genome, config, genome_id=None):
         print(f"GenomeID: {genome_id}, Fitness: {fitness_current}")
     else:
         print(f"Fitness: {fitness_current}")
+        fitness_values.append(fitness_current)
 
     env.close()
-    fitness_values.append(fitness_current)
     return fitness_current
 
 
@@ -110,6 +110,6 @@ winner = p.run(pe.evaluate)
 
 # winner = p.run(eval_genomes)
 
-
+print(fitness_values)
 with open("winner.pkl", "wb") as output:
     pickle.dump(winner, output, 1)
